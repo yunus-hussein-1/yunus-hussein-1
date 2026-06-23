@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Yunus Hussein 👋
+HTML Developer
+📧 yunuselhuseyin82@gmail.com
+🌐 GitHub: https://github.com/yunus-hussein-1
 
-<!--
-**yunus-hussein-1/yunus-hussein-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profile
+Passionate HTML Developer with a strong interest in creating clean, responsive, and user-friendly web pages. Dedicated to learning modern web technologies and improving coding skills through continuous practice and projects.
 
-Here are some ideas to get you started:
+Skills
+HTML5
+CSS3
+Responsive Web Design
+Git & GitHub
+Visual Studio Code
+Projects
+Personal Portfolio Website
+Responsive Landing Pages
+Basic Web Layout Designs
+Languages
+Arabic (Native)
+English (Intermediate)
+Goal
+To continuously improve my web development skills and contribute to creating modern and efficient websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ "Building simple, clean, and effective web experiences."
