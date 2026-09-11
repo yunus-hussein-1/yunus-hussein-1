@@ -1,41 +1,59 @@
-# Hi, I'm Yunus Hussein 👋
+<h1 align="center">Hi 👋, I'm Yunus Hussein</h1>
 
-## HTML Developer
+<h3 align="center">
+Frontend Developer | JavaScript & React Enthusiast | Learning Python 🐍
+</h3>
 
-📧 yunuselhuseyin82@gmail.com  
-🌐 GitHub: https://github.com/yunus-hussein-1
+<p align="center">
+  <a href="https://github.com/yunus-hussein-1">
+    <img src="https://komarev.com/ghpvc/?username=yunus-hussein-1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
 ---
 
-### Profile
+## 👨‍💻 About Me
 
-Passionate HTML Developer with a strong interest in creating clean, responsive, and user-friendly web pages. Dedicated to learning modern web technologies and improving coding skills through continuous practice and projects.
+I'm **Yunus Hussein**, a passionate developer focused on building clean, responsive, and modern web experiences.
 
-### Skills
+I enjoy turning ideas into real projects, improving my programming skills, and continuously learning new technologies.
+
+- 🌐 Building projects with **HTML, CSS, JavaScript & React**
+- 🐍 Currently learning **Python**
+- 💻 Interested in Frontend Development and modern web technologies
+- 🚀 Always improving through real projects and continuous practice
+- 🎯 Goal: Become a professional Full-Stack Developer
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode" />
+
+</p>
+
+### Languages & Technologies
 
 - HTML5
 - CSS3
+- JavaScript
+- React
+- Python
 - Responsive Web Design
 - Git & GitHub
 - Visual Studio Code
 
-### Projects
-
-- Personal Portfolio Website
-- Responsive Landing Pages
-- Basic Web Layout Designs
-
-### Languages
-
-- Arabic (Native)
-- English (Intermediate)
-
 ---
 
-### Goal
+## 🚀 Current Focus
 
-To continuously improve my web development skills and contribute to creating modern and efficient websites.
+I'm currently improving my skills in:
 
----
-
-⭐ "Building simple, clean, and effective web experiences."
+```text
+🐍 Python
+⚛️ React
+🟨 JavaScript
+🌐 Modern Web Development
+🧠 Problem Solving
