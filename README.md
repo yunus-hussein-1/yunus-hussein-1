@@ -1,63 +1,33 @@
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-# 👋 Hi, I'm Yunus Hussein
-
-### Junior Front-End Developer | React Learner | Python Learner 🐍
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Junior+Front-End+Developer;Building+Responsive+Web+Experiences;Learning+React+%26+Python;Always+Learning+%7C+Always+Building" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Yunus%20Hussein&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Front-End%20Developer%20%7C%20React%20%26%20Python%20Learner&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/yunus-hussein-1">
-  <img src="https://komarev.com/ghpvc/?username=yunus-hussein-1&label=Profile%20Views&color=00b8d9&style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=700&lines=Junior+Front-End+Developer+%F0%9F%92%BB;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Currently+Learning+Python+%F0%9F%90%8D;Building+Responsive+Web+Experiences+%F0%9F%9A%80;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 </a>
 
-</div>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=yunus-hussein-1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
----
-
-## 👨‍💻 About Me
-
-I'm **Yunus Hussein**, a Junior Front-End Developer based in **Istanbul, Türkiye**.
-
-I enjoy creating modern, responsive, and user-friendly websites and turning ideas into real digital experiences.
-
-- 💼 Currently working with **Aql Digital**
-- 🌐 Building real-world websites for businesses and clients
-- ⚛️ Currently improving my **React.js** skills
-- 🐍 Currently learning **Python**
-- 🎯 Focused on becoming a professional Full-Stack Developer
-- 🚀 Always learning, building, and improving
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,vite,git,github,vscode" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  <a href="https://github.com/yunus-hussein-1?tab=followers">
+    <img src="https://img.shields.io/github/followers/yunus-hussein-1?label=Followers&style=for-the-badge&color=00c6ff" alt="followers" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 Currently Learning
+<!-- ===================== ABOUT ME ===================== -->
 
-```text
-⚛️ React.js
-🐍 Python
-🟨 Modern JavaScript
-🧠 Problem Solving
-🌐 Modern Web Development
+## 👋 About Me
+
+```yaml
+name:        "Yunus Hussein"
+role:        "Junior Front-End Developer"
+location:    "Istanbul, Türkiye 🇹🇷"
+focus:       ["HTML", "CSS", "JavaScript", "React"]
+learning:    ["Python", "React.js", "Modern JavaScript"]
+interests:   ["Web Development", "UI Design", "Responsive Design"]
+goal:        "Become a professional Full-Stack Developer"
